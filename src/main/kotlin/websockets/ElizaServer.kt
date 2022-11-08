@@ -1,3 +1,4 @@
+@file:Suppress("NoWildcardImports", "WildcardImport", "SpreadOperator")
 package websockets
 
 import org.slf4j.LoggerFactory
