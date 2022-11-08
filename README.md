@@ -16,4 +16,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-| [jbuil](https://github.com/jbuil/lab4-websockets/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab4-websockets/actions/workflows/CI.yml) | 
+| [jbuil](https://github.com/jbuil/lab4-websockets/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab4-websockets/actions/workflows/CI.yml) |
