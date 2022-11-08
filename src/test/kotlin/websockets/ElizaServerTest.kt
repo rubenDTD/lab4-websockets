@@ -1,3 +1,4 @@
+@file:Suppress("NoWildcardImports")
 package websockets
 
 import org.junit.jupiter.api.Assertions.assertEquals
