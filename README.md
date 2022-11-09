@@ -16,4 +16,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-| [Ibon2](https://github.com/Ibon2/lab4-websockets/tree/work) | 776561 | [![Build Status](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml)
+| [Ibon2](https://github.com/Ibon2/lab4-websockets/tree/work) | 776561 | [![Build Status](https://github.com/Ibon2/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab4-websockets/actions/workflows/CI.yml)
