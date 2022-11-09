@@ -88,7 +88,7 @@ The pull request will be accepted if:
   along with your NIA and a link to your CI workflow.
 
   ```md
-  ![Build Status](https://github.com/your-github-username/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/your-github-username/lab4-websockets/actions/workflows/CI.yml)  
+  ![Build Status](https://github.com/your-github-username/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/your-github-username/lab4-websockets/actions/workflows/ci.yml)  
   ```
 
   and the color of your CI workflow triggered by a push event in the branch named work is green.
