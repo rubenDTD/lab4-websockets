@@ -16,5 +16,5 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-| [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/CI.yml)
+| [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/CI.yml) 
 
