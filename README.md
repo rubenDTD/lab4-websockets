@@ -16,4 +16,10 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
+| [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml)
+| [Ibon2](https://github.com/Ibon2/lab4-websockets/tree/work) | 776561 | [![Build Status](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml) |
+| [jbuil](https://github.com/jbuil/lab4-websockets/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml) |
+| [Ernesting](https://github.com/Ernesting/lab4-websockets/tree/work) | 798799 | [![Build Status](https://github.com/Ernesting/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ernesting/lab4-websockets/actions/workflows/ci.yml) 
+| [HectorRute98](https://github.com/HectorRute98/lab4-websockets/tree/work) | 736259 | [![Build Status](https://github.com/HectorRute98/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/HectorRute98/lab4-websockets/actions/workflows/ci.yml) |
+| [pikanachi](https://github.com/pikanachi/lab4-websockets/tree/work) | 610720 | [![Build Status](https://github.com/pikanachi/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/pikanachi/lab4-websockets/actions/workflows/ci.yml)
 | [ZenithGD](https://github.com/ZenithGD/lab4-websockets/tree/work) | 795306 | ![Build Status](https://github.com/ZenithGD/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) | Plan to implement **Relay** |
